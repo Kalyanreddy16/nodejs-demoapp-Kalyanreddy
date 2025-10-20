@@ -213,3 +213,4 @@ See [deployment folder](./deploy) for deploying into Kubernetes with Helm or int
 Trigger workflow run
 Trigger workflow run
 Trigger GitHub Actions workflow
+Trigger workflow after adding Docker Hub secrets
