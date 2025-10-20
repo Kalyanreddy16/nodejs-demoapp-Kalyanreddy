@@ -212,3 +212,4 @@ See [deployment folder](./deploy) for deploying into Kubernetes with Helm or int
 - June 2017 - Moved repo to Github
 Trigger workflow run
 Trigger workflow run
+Trigger GitHub Actions workflow
